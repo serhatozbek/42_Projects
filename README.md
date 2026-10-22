@@ -23,7 +23,6 @@ Hello! 👋 This page is a portfolio of the projects I completed during my studi
 | **[Minitalk](https://github.com/serhatozbek/42_minitalk)** | Client-server communication using UNIX signals. | ✅ 125/100 |
 | **[push_swap](https://github.com/serhatozbek/42_push_swap)** | The most efficient sorting algorithm with a limited set of commands. | ✅ 90/100 |
 | **[so_long](https://github.com/serhatozbek/42_so_long)** | A simple 2D game developed with MiniLibX. | ✅ 100/100 |
-| **[fract-ol](https://github.com/serhatozbek/42_fract-ol)** | An exploration of fractals (Mandelbrot and Julia sets) using graphics rendering. | ✅ 100/100 |
 | **[Philosophers](https://github.com/serhatozbek/42_Philosophers)** | A C simulation of the classic Dining Philosophers problem, focused on thread synchronization and deadlock avoidance. | ✅ 100/100 |
 | **[minishell](https://github.com/serhatozbek/42_minishell)** | A custom implementation of a UNIX shell like bash. | ✅ 101/100 |
 | **[netpractice](https://github.com/serhatozbek/42_netpractice)** | Introduction to networking, IP addresses, subnets, and routing configurations. | ✅ 100/100 |
